@@ -42,3 +42,5 @@ Threshold Automático
 Implementado cálculo do melhor threshold com base no F1-score.
 
 Permite equilibrar Recall e Precision de forma dinâmica
+
+Ajustado Explicabilidade (SHAP)
